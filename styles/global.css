@@ -7,6 +7,7 @@
 body {
   width: 1100px;
   margin: 0 auto;
+  font-weight:unset;
   font-family: Raleway, sans-serif;
 }
 
@@ -23,6 +24,8 @@ li,
 blockquote {
   margin: 0;
   padding: 0;
+  font-weight:unset;
+  font-style:normal
 }
 
 a {
