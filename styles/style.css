@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 40% 20% 40%;
     min-height: 105px;
-    margin: 62px 24px 92px 24px;
+    margin: 92px 24px 92px 24px;
 }
 
 .menu {
